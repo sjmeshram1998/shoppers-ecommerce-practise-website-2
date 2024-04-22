@@ -1,0 +1,51 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    line-height: 35px;
+    color: #8C9280;
+    font-size: 18px;
+}
+p {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    line-height: 35px;
+    color: #8C9280;
+    font-size: 18px;
+}
+.icon {
+    font-size: 30px;
+    color: #7870E7;
+    margin-right: 10px;
+}
+.phone-icon {
+    font-size: 25px;
+    color: #7870E7;
+    margin-right: 12px;
+    
+}
+.btn {
+    background-color: #7870E7;
+    color: #FFFFFF;
+    margin-left: -66px;
+    border-radius: 0;
+}
+.form-control {
+    transition: none;
+    border: 1px solid #7870E7;
+
+}
+input {
+     border-radius: 0px;
+     height: 45px !important;
+}
+.gray {
+    color: #8C9280;
+}
+.purple {
+    color: #7870E7;
+}
+.mt {
+    margin-top: 13rem;
+}

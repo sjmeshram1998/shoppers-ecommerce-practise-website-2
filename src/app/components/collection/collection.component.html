@@ -1,0 +1,16 @@
+
+
+<div class="container-fluid mb-5 mt-5">
+    <div class="container">
+        <div class="card-responsive">
+            <div class="card" *ngFor="let item of collectionData">
+                <img [src]= item.img alt="" >
+                <p class="text-white">COLLECTIONS</p>
+
+                <h1 class="text-white">{{item.name}}</h1>
+                
+            </div>
+        </div>
+
+    </div>
+</div>

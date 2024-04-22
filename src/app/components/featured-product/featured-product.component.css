@@ -1,0 +1,32 @@
+hr {
+    width: 5%;
+    height: 2px;
+    color: #7870E7;
+    background-color: #7870E7;
+    opacity: 1 !important;
+    border-radius: 50px;
+}
+img {
+    width: 300px;
+}
+.flexWrap {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.card {
+    margin: 10px 10px;
+}
+h3, h5 {
+    color: #7870E7;
+}
+p {
+    color: #8C92A0;
+}
+.btn {
+    background-color: #7870E7;
+    padding: 10px;
+    margin: 10px;
+}

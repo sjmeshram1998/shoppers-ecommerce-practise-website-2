@@ -1,0 +1,27 @@
+<div class="container-fluid mt-5">
+    <div class="container mt-5">
+       
+        <div align="center">
+            <hr >
+        </div>
+        <h1 class="text-center mt-2">Featured Products</h1>
+    <div class="flexWrap mt-5 ">
+      <div *ngFor="let item of featuredData">
+        <div class="card text-center">
+          <img [src]=item.img alt="">
+          <h3 class="mt-2">{{item.name}}</h3>
+          <p>{{item.description}}</p>
+          <h5>{{item.price}}</h5> 
+          <button class="btn text-white" (click)=" addToCart(item)">Add To Cart</button>
+        </div>
+      </div>
+    </div>
+<!--         
+       <owl-carousel [options]="customOptions">
+  <ng-container *ngFor="let image of images">
+    <img [src]="image.url" alt="Image" class="img-fluid">
+  </ng-container>
+</owl-carousel> -->
+
+    </div>
+</div>

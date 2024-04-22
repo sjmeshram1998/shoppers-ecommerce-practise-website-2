@@ -1,0 +1,30 @@
+.icon {
+    font-size: 30px;
+    margin-left: 10px;
+}
+.icon-cart {
+  font-size: 25px;
+  margin-left: 10px;
+}
+.center-button {
+      
+    padding: 5px 25px 5px 25px;
+    font-size: 18px;
+    font-weight: 500;
+   
+    background-color: #FFFFFF;
+}
+.icon-rtl {
+    padding-right: 25px;
+    background: url("https://static.thenounproject.com/png/101791-200.png") no-repeat right;
+    background-size: 20px;
+  }
+  ul {
+    font-size: 18px;
+    
+  }
+  .badge {
+    font-size: 15px;
+    background-color: #7971EA;
+    border-radius: 50%;
+  }

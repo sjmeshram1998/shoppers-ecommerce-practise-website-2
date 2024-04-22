@@ -1,0 +1,63 @@
+{
+    "products": [
+        {
+            "id":1,
+            "img" : "./assets/images/cloth1.jpg",
+            "name" : "Tank Top",
+            "description" : "Finding perfect t-shirt",
+            "price" : "550" 
+        },
+      
+        {
+            "id":2,
+            "img" : "./assets/images/cloth2.jpg",
+            "name" : "Tank Top",
+            "description" : "Finding perfect t-shirt",
+            "price" : "550" 
+        },
+        {
+            "id":3,
+            "img" : "./assets/images/cloth3.jpg",
+            "name" : "Tank Top",
+            "description" : "Finding perfect t-shirt",
+            "price" : "5550" 
+        },
+        {
+            "id":4,
+            "img" : "./assets/images/cloth4.jpg",
+            "name" : "Tank Top",
+            "description" : "Finding perfect t-shirt",
+            "price" : "750" 
+        },
+        {
+            "id":5,
+            "img" : "./assets/images/cloth1.jpg",
+            "name" : "Tank Top",
+            "description" : "Finding perfect t-shirt",
+            "price" : "850" 
+        },
+        {
+            "id":5,
+            "img" : "./assets/images/cloth1.jpg",
+            "name" : "Tank Top",
+            "description" : "Finding perfect t-shirt",
+            "price" : "400" 
+        }
+    ],
+
+    "collections": 
+    [
+        {
+            "img" : "./assets/images/collection1.jpg",
+            "name" : "Women"
+        },
+        {
+            "img" : "./assets/images/collection2.jpg",
+            "name" : "Children"
+        },
+        {
+            "img" : "./assets/images/collection3.jpg",
+            "name" : "Men"
+        }
+    ]
+}

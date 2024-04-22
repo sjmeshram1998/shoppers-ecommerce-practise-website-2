@@ -1,0 +1,47 @@
+.container-fluid {
+    padding: 20px;
+}
+
+
+.bg {
+    background-color: #A6F3ED;
+    background-image: url('src\assets\images\hero.jpg');
+    height: 90vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.btn {
+    background-color: #7971EA;
+    color: #FFFFFF;
+    padding: 10px 30px 10px 30px;
+    font-weight: 500;
+    font-size: 18px;
+}
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+}
+p{
+    font-size: 20px;
+}
+.truck-icon {
+    font-size: 55px;
+    color: #7971EA;
+    padding-right: 30px;
+}
+.gray {
+    color: #8C92A0
+    ;
+}
+@media screen and (max-width: 576px) {
+    
+.bg {
+    background-color: #A6F3ED;
+    background-image: url('src\assets\images\hero.jpg');
+    height: 80vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+}
